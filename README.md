@@ -3,8 +3,8 @@ ANPR (Automatic Number Plate Recognition)- Technology using bounding box predict
 
 FILES - 
 Training and Building the model:-
-1) 200 EPOCHS MODEL: _200_Object_Detection_indian-vehicle-dataset-Copy1.ipynb
-2) 150 EPOCHS MODEL: 150_Object_Detection_indian-vehicle-dataset
+> 1) 200 EPOCHS MODEL: _200_Object_Detection_indian-vehicle-dataset-Copy1.ipynb
+> 2) 150 EPOCHS MODEL: 150_Object_Detection_indian-vehicle-dataset
 
 Making Predictions on Unseen Data:-
 > Make Predictions-Copy1.ipynb
