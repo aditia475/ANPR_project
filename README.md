@@ -2,6 +2,9 @@
 ANPR (Automatic Number Plate Recognition)- Technology using bounding box prediction and optical character recognition(OCR) on images to read "vehicle registration plates".
 
 FILES - 
+For Overall Project overview/ Flow:- 
+> ANPR_Documentation.pdf
+
 Training and Building the model:-
 > 1) 200 EPOCHS MODEL: _200_Object_Detection_indian-vehicle-dataset-Copy1.ipynb
 > 2) 150 EPOCHS MODEL: 150_Object_Detection_indian-vehicle-dataset
@@ -9,5 +12,11 @@ Training and Building the model:-
 Making Predictions on Unseen Data:-
 > Make Predictions-Copy1.ipynb
 
-For Overall Project overview/ Flow:- 
-> ANPR_Documentation.pdf
+RESULTS -
+
+Testing Bounding Box prediction on a "Seen" Image:-
+
+Loaded Image-
+![image](https://user-images.githubusercontent.com/79463682/199299826-766b0610-83de-481c-951a-767125e26428.png)
+Bounding Box prediction:-
+
