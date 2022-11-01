@@ -22,3 +22,8 @@ RESULTS -
 
 > Testing Bounding Box prediction on a "Unseen" Image:-
 
+![image](https://user-images.githubusercontent.com/79463682/199300611-17b07d81-09c3-402a-9be5-d7974ea15117.png)
+
+> Results of OCR:-
+
+ML O5 S 7595 
