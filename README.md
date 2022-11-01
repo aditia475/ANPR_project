@@ -14,9 +14,11 @@ Making Predictions on Unseen Data:-
 
 RESULTS -
 
-Testing Bounding Box prediction on a "Seen" Image:-
+> Testing Bounding Box prediction on a "Seen" Image:-
 
-Loaded Image-
 ![image](https://user-images.githubusercontent.com/79463682/199299826-766b0610-83de-481c-951a-767125e26428.png)
-Bounding Box prediction:-
+
+![image](https://user-images.githubusercontent.com/79463682/199300283-eff277ba-c298-4e8f-b1a2-bdb6b5549544.png)
+
+> Testing Bounding Box prediction on a "Unseen" Image:-
 
