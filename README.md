@@ -1,5 +1,5 @@
 # ANPR_project
-ANPR (Automatic Number Plate Recognition)- Technology using bounding box prediction and optical character recognition(OCR) on images to read "vehicle registration plates".
+ANPR ( * Automatic Number Plate Recognition * ) - Technology using bounding box prediction and optical character recognition(OCR) on images to read "vehicle registration plates".
 
 FILES - 
 For Overall Project overview/ Flow:- 
